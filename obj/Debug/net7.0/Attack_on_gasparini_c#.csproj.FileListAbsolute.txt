@@ -1,0 +1,15 @@
+C:\Users\henri\workspace\c#\Attack_on_gasparini_c#\bin\Debug\net7.0\Attack_on_gasparini_c#.exe
+C:\Users\henri\workspace\c#\Attack_on_gasparini_c#\bin\Debug\net7.0\Attack_on_gasparini_c#.deps.json
+C:\Users\henri\workspace\c#\Attack_on_gasparini_c#\bin\Debug\net7.0\Attack_on_gasparini_c#.runtimeconfig.json
+C:\Users\henri\workspace\c#\Attack_on_gasparini_c#\bin\Debug\net7.0\Attack_on_gasparini_c#.dll
+C:\Users\henri\workspace\c#\Attack_on_gasparini_c#\bin\Debug\net7.0\Attack_on_gasparini_c#.pdb
+C:\Users\henri\workspace\c#\Attack_on_gasparini_c#\obj\Debug\net7.0\Attack_on_gasparini_c#.csproj.AssemblyReference.cache
+C:\Users\henri\workspace\c#\Attack_on_gasparini_c#\obj\Debug\net7.0\Attack_on_gasparini_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\workspace\c#\Attack_on_gasparini_c#\obj\Debug\net7.0\Attack_on_gasparini_c#.AssemblyInfoInputs.cache
+C:\Users\henri\workspace\c#\Attack_on_gasparini_c#\obj\Debug\net7.0\Attack_on_gasparini_c#.AssemblyInfo.cs
+C:\Users\henri\workspace\c#\Attack_on_gasparini_c#\obj\Debug\net7.0\Attack_on_gasparini_c#.csproj.CoreCompileInputs.cache
+C:\Users\henri\workspace\c#\Attack_on_gasparini_c#\obj\Debug\net7.0\Attack_on_gasparini_c#.dll
+C:\Users\henri\workspace\c#\Attack_on_gasparini_c#\obj\Debug\net7.0\refint\Attack_on_gasparini_c#.dll
+C:\Users\henri\workspace\c#\Attack_on_gasparini_c#\obj\Debug\net7.0\Attack_on_gasparini_c#.pdb
+C:\Users\henri\workspace\c#\Attack_on_gasparini_c#\obj\Debug\net7.0\Attack_on_gasparini_c#.genruntimeconfig.cache
+C:\Users\henri\workspace\c#\Attack_on_gasparini_c#\obj\Debug\net7.0\ref\Attack_on_gasparini_c#.dll
